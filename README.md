@@ -1,7 +1,7 @@
 # 🏙️ New York City Property Sales Prediction
 
 ## Project Overview
-This project analyzes over 100,000 residential property transactions across New York City to predict real estate sale prices using machine learning. By uncovering the key drivers of property value, the model helps stakeholders—such as real estate professionals, investors, and city planners—make more informed pricing, investment, and planning decisions. The final stacked model accurately predicts sale prices, offering valuable insight into one of the most complex real estate markets in the world.
+This project analyzes 38,000 residential property transactions across New York City to predict real estate sale prices using machine learning. By uncovering the key drivers of property value, the model helps stakeholders—such as real estate professionals, investors, and city planners—make more informed pricing, investment, and planning decisions. The final stacked model accurately predicts sale prices, offering valuable insight into one of the most complex real estate markets in the world.
 
 **Research Question:**  
 Can NYC property sale prices be accurately predicted from publicly available data?
