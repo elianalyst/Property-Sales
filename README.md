@@ -20,7 +20,7 @@ Can NYC property sale prices be accurately predicted from publicly available dat
 - Python  
 - scikit-learn  
 
-## 📎 Full Report
-[Jupyter Notebook](New%20York.ipynb)  
+## Full Report
+To explore the full analysis including code and key takeaways, view the complete [Jupyter Notebook](New%20York.ipynb)  
 You can also view the formal write up.
 
